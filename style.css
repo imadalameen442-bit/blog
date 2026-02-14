@@ -134,3 +134,7 @@ footer {
   box-shadow: 0px 6px 25px rgba(0,0,0,0.04);
   margin-bottom: 40px;
 }
+
+p {
+  text-indent: 2em;
+}
